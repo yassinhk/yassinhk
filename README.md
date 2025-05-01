@@ -124,7 +124,7 @@ A real-time **fleet management solution** for vehicle tracking & monitoring.
 - **Backend:** REST APIs
 - **State Management:** Redux
 
-![fleet](images/fleet-cover.png)
+![fleet](images/Fleet-cover.png)
 
 
 ---
