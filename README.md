@@ -34,6 +34,7 @@ A comprehensive **transportation platform** supporting both **private taxis and 
 - Optimized app for **offline caching** and low-connectivity scenarios.
 
 **Key Features:**
+
 ✅ Real-time taxi availability & booking confirmation  
 ✅ Dynamic pricing updates  
 ✅ Rider-driver **in-app chat**  
@@ -45,6 +46,9 @@ A comprehensive **transportation platform** supporting both **private taxis and 
 - **APIs:** Google Maps API, Firebase Cloud Messaging
 - **Libraries:** Redux, React Navigation, Axios
 - **Backend Integration:** REST APIs
+
+![Hands-On Taxi Home](images/taxi-cover.png)
+
 
 ---
 
@@ -63,11 +67,11 @@ A fast, intuitive **food ordering platform** with a focus on seamless UX.
 - **Languages:** JavaScript, TypeScript
 - **State Management:** Redux Toolkit
 - **Navigation:** React Navigation
-- **Backend:** Firebase Firestore, Firebase Cloud Messaging
-- **Payment Integration:** Stripe API (optional)
+- **Backend Integration:** REST APIs
+- **Payment Integration:** integrate payment gateway for card payment.
 
 ✅ Simple, fast UI/UX  
-✅ Scalable backend with Firebase  
+✅ Scalable backend with NodeJs.  
 ✅ Built entirely with React Native
 
 ---
@@ -89,35 +93,34 @@ A mobile control center empowering workers to access information & communicate *
 **Tech Stack:**
 - **Framework:** React Native
 - **Languages:** JavaScript, TypeScript
-- **Database:** SQLite
 - **Notifications:** Firebase Cloud Messaging
 - **Backend:** REST APIs
 - **Libraries:** Redux, React Navigation
 
 ---
-
 ### 🟢 **Fleet Tracker: GPS & Fleet Management App**
 A real-time **fleet management solution** for vehicle tracking & monitoring.
 
 **Key Responsibilities:**
-- Built Android Native app with **background location tracking**.
-- Integrated **Firebase Authentication** for secure access.
-- Created **multi-vehicle dashboard** with live tracking & alerts.
-- Implemented **movement alerts** with push notifications.
+- Built a **React Native** app with **background location tracking**.
+- Integrated **Firebase Authentication** for secure user access.
+- Created a **multi-vehicle dashboard** displaying live tracking & alerts.
+- Implemented **movement alerts** using push notifications and backend triggers.
 
 **Key Features:**
 ✅ Real-time GPS tracking  
 ✅ Background location monitoring  
-✅ Fleet health dashboard
+✅ Fleet health dashboard  
+✅ Multi-vehicle support per user account
 
 **Tech Stack:**
-- **Framework:** Android Native
-- **Languages:** Kotlin
-- **Location Services:** Google Play Services Location API
-- **Authentication:** Firebase Auth
+- **Framework:** React Native
+- **Languages:** JavaScript, TypeScript
+- **Location Services:** React Native Location API, Google Maps API
+- **Authentication:** Firebase Authentication
 - **Notifications:** Firebase Cloud Messaging
 - **Backend:** REST APIs
-- **Database:** Room Database
+- **State Management:** Redux
 
 ---
 
@@ -133,7 +136,7 @@ An Android Native app paired with **RFID handheld readers** for enterprise asset
 
 **Tech Stack:**
 - **Framework:** Android Native
-- **Languages:** Java
+- **Languages:** Kotlin / Java
 - **Hardware Integration:** RFID SDK
 - **Location Services:** Google Location API
 - **Networking:** Retrofit
@@ -166,7 +169,7 @@ A secure **Point-of-Sale (POS) application** for credit card & mobile wallet tra
 - **Languages:** Kotlin, Java
 - **Payment Integration:** Stripe API, eMerchantPay SDK
 - **NFC:** Android NFC API
-- **Networking:** Retrofit
+- **Networking:** Retrofit 
 - **Local Storage:** Room Database
 - **Printing:** Printer SDK
 
