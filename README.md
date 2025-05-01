@@ -47,7 +47,7 @@ A comprehensive **transportation platform** supporting both **private taxis and 
 - **Libraries:** Redux, React Navigation, Axios
 - **Backend Integration:** REST APIs
 
-![Hands-On Taxi Home](images/taxi-cover.png)
+![Hands-On Taxi](images/taxi-cover.png)
 
 
 ---
@@ -73,6 +73,8 @@ A fast, intuitive **food ordering platform** with a focus on seamless UX.
 ✅ Simple, fast UI/UX  
 ✅ Scalable backend with NodeJs.  
 ✅ Built entirely with React Native
+
+![su pizza](images/su-pizza-cover.png)
 
 ---
 
@@ -121,6 +123,9 @@ A real-time **fleet management solution** for vehicle tracking & monitoring.
 - **Notifications:** Firebase Cloud Messaging
 - **Backend:** REST APIs
 - **State Management:** Redux
+
+![fleet](images/fleet-cover.png)
+
 
 ---
 
