@@ -4,8 +4,6 @@
 I'm a **Senior Mobile Developer** with **6+ years of experience** specializing in **Android Native, React Native, and Kotlin development**.  
 I build scalable, secure, and user-centric mobile applications, with proven expertise in integrating **payment systems** and leading development teams within **Agile/Scrum environments**.
 
-Currently based in **Malta** 🇲🇹 and open to global collaboration opportunities in mobile app development and fintech solutions.
-
 ---
 
 ## 🛠️ Tech Stack
