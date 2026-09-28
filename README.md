@@ -20,7 +20,7 @@ I work across **React/TypeScript** frontends, **Go, Node.js and Java/Spring Boot
 - ⚡ Cut slow database query times from **12–20 s to 500–700 ms** on high-volume deployments
 - 🔄 Led migrations **MySQL → PostgreSQL**, **InfluxDB → TimescaleDB** and **Redux → Redux Toolkit**
 - 📦 Delivered **10+ production web and mobile apps**, with reusable libraries that made delivery **~40% faster**
-- 💳 Integrated **Stripe and eMerchantPay** payments; POS systems at **98% success rate** across **200+ devices**
+- 💳 Integrated **Stripe, Paddle and eMerchantPay** payments; POS systems at **98% success rate** across **200+ devices**
 - 👥 Mentored **2 junior developers and 3 interns**; lead code reviews
 
 ---
