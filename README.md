@@ -114,11 +114,3 @@ Real-time **vehicle tracking and monitoring** with a multi-vehicle dashboard.
 | **RFID Asset Management** | Enterprise asset tracking with RFID handheld readers, GPS tagging and offline sync | Android · Kotlin · RFID SDK · Room |
 | **Task Master** | Offline-first workforce app with role-based access and auto-sync | React Native · SQLite · Firebase |
 
----
-
-## 📫 Let's Connect
-
-I'm open to **remote full-stack roles**, as a full-time employee or B2B contractor.
-
-- ✉️ [yassinhakiri@gmail.com](mailto:yassinhakiri@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yassinhkiri/)
