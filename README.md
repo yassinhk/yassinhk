@@ -6,8 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yassinhkiri-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassinhkiri/)
 [![Email](https://img.shields.io/badge/Email-yassinhakiri%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:yassinhakiri@gmail.com)
 
-📍 Malta · Open to worldwide remote opportunities
-
 ---
 
 ## About Me
