@@ -1,198 +1,124 @@
-# 👋 Hi, I'm Yassin Hkiri
+# Hi, I'm Yassin Hkiri 👋
+
+### Senior Full-Stack Developer · React · TypeScript · Node.js · Go · Java/Spring Boot
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yassinhkiri-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassinhkiri/)
+[![Email](https://img.shields.io/badge/Email-yassinhakiri%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:yassinhakiri@gmail.com)
+
+---
 
 ## 🚀 About Me
-I'm a **Senior Mobile Developer** with **6+ years of experience** specializing in **Android Native, React Native, and Kotlin development**.  
-I build **scalable, secure, and user-centric mobile applications**, integrating **payment systems**, geolocation services, and **real-time data synchronization**.
 
-I have a proven track record leading cross-functional teams in **Agile/Scrum environments**, mentoring junior developers, and delivering high-impact mobile solutions in **transportation, fintech, retail, and enterprise sectors**.
+I'm a **Senior Full-Stack Developer** with **8+ years** of experience building and modernizing production web, backend and mobile systems across **FinTech, IoT, e-commerce, transportation and POS**.
+
+I work across **React/TypeScript** frontends, **Go, Node.js and Java/Spring Boot** services, and **PostgreSQL, TimescaleDB and MongoDB** data layers, on platforms processing **100K to 1M+ transactions per day**. I take features from design and code review through CI/CD, deployment and production support, and I work well in distributed, async teams.
+
+---
+
+## 📈 Highlights
+
+- ⚡ Cut slow database query times from **12–20 s to 500–700 ms** on high-volume deployments
+- 🔄 Led migrations **MySQL → PostgreSQL**, **InfluxDB → TimescaleDB** and **Redux → Redux Toolkit**
+- 📦 Delivered **10+ production web and mobile apps**, with reusable libraries that made delivery **~40% faster**
+- 💳 Integrated **Stripe and eMerchantPay** payments; POS systems at **98% success rate** across **200+ devices**
+- 👥 Mentored **2 junior developers and 3 interns**; lead code reviews
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category      | Tools & Technologies |
-|---------------|--------------------|
-| **Frameworks** | Android Native, React Native, Spring Boot, Kotlin Multiplatform |
-| **Languages** | Kotlin, Java, JavaScript, TypeScript, Swift, SQL |
-| **Tools**     | Android Studio, Git, Bitbucket, Postman, JIRA, Firebase, REST APIs |
-| **Practices** | Jetpack Compose, MVVM, Clean Architecture, SOLID Principles, Design Patterns |
-| **Databases** | MySQL, MongoDB, PostgreSQL, SQLite |
-| **Specialties** | Payment Gateway Integration (Stripe, eMerchantPay), Secure POS Systems, Team Leadership, Mentoring |
+| Area | Technologies |
+|---|---|
+| **Frontend** | React.js, TypeScript, JavaScript, Redux Toolkit, React Hooks, Material UI, Ant Design |
+| **Backend** | Go, Node.js, Java, Spring Boot, REST APIs, Spring Security, JWT, OAuth2, Hibernate/JPA |
+| **Data** | PostgreSQL, TimescaleDB, MySQL, MongoDB, InfluxDB, SQLite |
+| **Cloud & DevOps** | AWS, Microsoft Azure, Docker, Jenkins, CI/CD, Git, GitHub, Bitbucket |
+| **Mobile** | React Native, Android (Kotlin, Java) |
+| **Practices** | Clean Architecture, SOLID, design patterns, legacy modernization, code review, Agile/Scrum |
 
 ---
 
-## 📱 Featured Projects
+## 🧩 Featured Projects
 
-### 🟢 **Hands-On Taxi | Get a Loop**
-A comprehensive **transportation platform** supporting both **private taxis and shared ride loops**.
+> Most of my work is for clients and lives in private repositories. Here's what I built and how.
 
-**Key Responsibilities:**
-- Developed driver & rider apps with **React Native**.
-- Integrated **Google Maps API** for live location & routing.
-- Built **dynamic pricing algorithms** for real-time updates.
-- Enabled **push notifications** for bookings, arrivals, and ride updates.
-- Optimized app for **offline caching** and low-connectivity scenarios.
+### 🛡️ ComplyRadar: AML Transaction Monitoring
+A transaction-monitoring platform used by **banking and iGaming** clients to detect suspicious activity.
 
-**Key Features:**
+- Full-stack features across a **React.js** frontend and **Go/Java** backend services
+- Client deployments processing **100K to 1M+ transactions per day**
+- Database modernization: **MySQL → PostgreSQL** and **InfluxDB → TimescaleDB**
+- Query optimization that brought slow queries from **12–20 s to 500–700 ms**
 
-✅ Real-time taxi availability & booking confirmation  
-✅ Dynamic pricing updates  
-✅ Rider-driver **in-app chat**  
-✅ Seamless UX across Android & iOS platforms
+**Stack:** React · Redux Toolkit · Go · Java · PostgreSQL · TimescaleDB · Azure · Docker · Jenkins
 
-**Tech Stack:**
-- **Framework:** React Native
-- **Languages:** JavaScript, TypeScript
-- **APIs:** Google Maps API, Firebase Cloud Messaging
-- **Libraries:** Redux, React Navigation, Axios
-- **Backend Integration:** REST APIs
+---
+
+### 🌱 [BioAqua](https://bioaquagarden.com/): IoT Monitoring for Agriculture
+A scalable IoT platform that **collects sensor data from farms**, analyzes it, and **triggers automated actions or notifications** from user-defined rules.
+
+- Sensor data ingestion, storage and analysis
+- Rule engine for automated actions and alerts
+- Web dashboard for monitoring and control
+
+**Stack:** React.js · Node.js · MongoDB · AWS
+
+---
+
+### 🍕 [Su-Pizza](https://su-pizza.com/): Food Ordering & Delivery Platform
+A multi-platform ordering system with a **customer website, admin portal and mobile apps**.
+
+- Menu browsing, customizable items and extras, cart and checkout
+- Live **order tracking and delivery ETA**, push notifications
+- Cash or **card payment** through an integrated payment gateway
+- Admin portal for managing menus, orders and deliveries
+
+**Stack:** React.js · React Native · Redux Toolkit · Node.js · MongoDB · AWS
+
+![Su-Pizza](images/su-pizza-cover.png)
+
+---
+
+### 🚕 HandsOn Taxi | Get a Loop: Transportation Platform
+A transportation platform supporting **private taxis and shared ride loops**, with rider app, driver app and web back office.
+
+- REST APIs connecting web and mobile clients to **Spring Boot** services
+- **Google Maps** live location, routing and **dynamic real-time pricing**
+- **Stripe and eMerchantPay** payment integration
+- Push notifications, in-app rider–driver chat, offline caching for low connectivity
+
+**Stack:** React.js · React Native · TypeScript · Spring Boot · Google Maps API · Firebase Cloud Messaging
 
 ![Hands-On Taxi](images/taxi-cover.png)
 
+---
+
+### 🚚 Fleet Tracker: GPS & Fleet Management
+Real-time **vehicle tracking and monitoring** with a multi-vehicle dashboard.
+
+- Background location tracking and live map view
+- Movement alerts through push notifications and backend triggers
+- Firebase Authentication, multi-vehicle support per account
+
+**Stack:** React Native · TypeScript · Google Maps API · Firebase · REST APIs · Redux
+
+![Fleet Tracker](images/Fleet-cover.png)
 
 ---
 
-### 🟢 **Su-Pizza: Food Ordering App**
-A fast, intuitive **food ordering platform** with a focus on seamless UX.
+### 📱 More Mobile & POS Work
 
-**Key Features:**
-- Browse menus, filter items, view product details.
-- Cart & checkout with customizable items & extras.
-- Live **order status tracking & delivery ETA**.
-- Payment method selection: **cash or integrated payment gateway**.
-- Push notifications for order updates.
-
-**Tech Stack:**
-- **Framework:** React Native
-- **Languages:** JavaScript, TypeScript
-- **State Management:** Redux Toolkit
-- **Navigation:** React Navigation
-- **Backend Integration:** REST APIs
-- **Payment Integration:** integrate payment gateway for card payment.
-
-✅ Simple, fast UI/UX  
-✅ Scalable backend with NodeJs.  
-✅ Built entirely with React Native
-
-![su pizza](images/su-pizza-cover.png)
+| Project | What it does | Stack |
+|---|---|---|
+| **NCR Pay** | Secure POS app for card and mobile-wallet payments with NFC tap-to-pay; 1,000+ transactions/day at 98% success across 200+ devices | Android · Kotlin · Java · NFC · Retrofit · Room |
+| **RFID Asset Management** | Enterprise asset tracking with RFID handheld readers, GPS tagging and offline sync | Android · Kotlin · RFID SDK · Room |
+| **Task Master** | Offline-first workforce app with role-based access and auto-sync | React Native · SQLite · Firebase |
 
 ---
 
-### 🟢 **Task Master: Workforce Empowerment App**
-A mobile control center empowering workers to access information & communicate **even offline**.
+## 📫 Let's Connect
 
-**Key Responsibilities:**
-- Developed offline-first mobile app with **React Native + SQLite**.
-- Integrated **push notifications** for task assignments.
-- Built role-based access for various worker roles.
-- Enabled **automatic data sync** when network restored.
-
-**Key Features:**
-✅ Offline task management  
-✅ Role-based access control  
-✅ Auto-sync on connectivity restoration
-
-**Tech Stack:**
-- **Framework:** React Native
-- **Languages:** JavaScript, TypeScript
-- **Notifications:** Firebase Cloud Messaging
-- **Backend:** REST APIs
-- **Libraries:** Redux, React Navigation
-
----
-### 🟢 **Fleet Tracker: GPS & Fleet Management App**
-A real-time **fleet management solution** for vehicle tracking & monitoring.
-
-**Key Responsibilities:**
-- Built a **React Native** app with **background location tracking**.
-- Integrated **Firebase Authentication** for secure user access.
-- Created a **multi-vehicle dashboard** displaying live tracking & alerts.
-- Implemented **movement alerts** using push notifications and backend triggers.
-
-**Key Features:**
-✅ Real-time GPS tracking  
-✅ Background location monitoring  
-✅ Fleet health dashboard  
-✅ Multi-vehicle support per user account
-
-**Tech Stack:**
-- **Framework:** React Native
-- **Languages:** JavaScript, TypeScript
-- **Location Services:** React Native Location API, Google Maps API
-- **Authentication:** Firebase Authentication
-- **Notifications:** Firebase Cloud Messaging
-- **Backend:** REST APIs
-- **State Management:** Redux
-
-![fleet](images/Fleet-cover.png)
-
-
----
-
-### 🟢 **RFID Asset Management App**
-An Android Native app paired with **RFID handheld readers** for enterprise asset tracking.
-
-**Key Features:**
-- **Scan multiple assets** simultaneously via RFID.
-- **Search & filter assets** by ID/metadata.
-- **Add assets** by linking RFID tags.
-- Captures **GPS location** during asset registration.
-- Syncs data via **4G, WiFi, or offline caching**.
-
-**Tech Stack:**
-- **Framework:** Android Native
-- **Languages:** Kotlin / Java
-- **Hardware Integration:** RFID SDK
-- **Location Services:** Google Location API
-- **Networking:** Retrofit
-- **Local Storage:** Room Database
-
-✅ Android app optimized for rugged handheld devices  
-✅ Seamless integration with RFID hardware  
-✅ Supports field operations globally
-
----
-
-### 🟢 **NCR Pay POS Payment App**
-A secure **Point-of-Sale (POS) application** for credit card & mobile wallet transactions.
-
-**Key Responsibilities:**
-- Architected Android Native POS app with **Kotlin & Java**.
-- Integrated **NFC tap-to-pay** for cards & wallets.
-- Complied with **PCI DSS security standards**.
-- Built **transaction history & reporting** modules.
-- Integrated **payment gateways (Stripe, eMerchantPay)**.
-
-**Key Features:**
-✅ Processed 1,000+ transactions daily  
-✅ 98% transaction success rate  
-✅ Deployed across 200+ retail devices  
-✅ Instant receipt printing support
-
-**Tech Stack:**
-- **Framework:** Android Native
-- **Languages:** Kotlin, Java
-- **Payment Integration:** Stripe API, eMerchantPay SDK
-- **NFC:** Android NFC API
-- **Networking:** Retrofit 
-- **Local Storage:** Room Database
-- **Printing:** Printer SDK
-
----
-
-## 🏆 Achievements
-
-✔️ Delivered **7+ Android Native** and **5+ cross-platform (React Native)** production apps  
-✔️ Reduced development time by **40%** via modern libraries & frameworks  
-✔️ Led secure payment system integrations for fintech & retail  
-✔️ Deployed apps across **200+ devices** with centralized update management  
-✔️ Maintained **98%+ transaction success rate** in production systems
-
----
-
-## 📫 Contact Me
+I'm open to **remote full-stack roles**, as a full-time employee or B2B contractor.
 
 - ✉️ [yassinhakiri@gmail.com](mailto:yassinhakiri@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/yassinhkiri/)
-
----
+- 💼 [LinkedIn](https://www.linkedin.com/in/yassinhkiri/)
